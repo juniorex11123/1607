@@ -293,19 +293,19 @@ const HomePage = () => {
               {
                 name: 'Anna Kowalska',
                 position: 'CEO, TechSolutions',
-                image: 'https://images.pexels.com/photos/7616608/pexels-photo-7616608.jpeg',
+                image: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMzIiIGZpbGw9IiNGM0Y0RjYiLz4KPGNpcmNsZSBjeD0iMzIiIGN5PSIyNCIgcj0iMTAiIGZpbGw9IiM2QjczODAiLz4KPHBhdGggZD0iTTEyIDQ5QzEyIDQwLjE2MzQgMTkuMTYzNCAzMyAyOCAzM0gzNkM0NC44MzY2IDMzIDUyIDQwLjE2MzQgNTIgNDlWNTJIMTJWNDlaIiBmaWxsPSIjNkI3MzgwIi8+Cjwvc3ZnPgo=',
                 content: 'TimeTracker Pro zrewolucjonizował sposób zarządzania naszym zespołem. Wzrost produktywności o 35% w pierwszym miesiącu!'
               },
               {
                 name: 'Marek Nowak',
                 position: 'Dyrektor, Creative Agency',
-                image: 'https://images.unsplash.com/photo-1610631066894-62452ccb927c',
+                image: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMzIiIGZpbGw9IiNFRkY2RkYiLz4KPGNpcmNsZSBjeD0iMzIiIGN5PSIyNCIgcj0iMTAiIGZpbGw9IiMwRjc5QUYiLz4KPHBhdGggZD0iTTEyIDQ5QzEyIDQwLjE2MzQgMTkuMTYzNCAzMyAyOCAzM0gzNkM0NC44MzY2IDMzIDUyIDQwLjE2MzQgNTIgNDlWNTJIMTJWNDlaIiBmaWxsPSIjMEY3OUFGII8+Cjwvc3ZnPgo=',
                 content: 'Najlepsze narzędzie do śledzenia czasu i rozliczania projektów. Intuicyjne, szybkie i niezawodne.'
               },
               {
                 name: 'Kasia Wiśniewska',
                 position: 'PM, Development Team',
-                image: 'https://images.unsplash.com/photo-1573497701175-00c200fd57f0',
+                image: 'data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMzIiIGN5PSIzMiIgcj0iMzIiIGZpbGw9IiNGRUYzRjIiLz4KPGNpcmNsZSBjeD0iMzIiIGN5PSIyNCIgcj0iMTAiIGZpbGw9IiNGNTk0NUYiLz4KPHBhdGggZD0iTTEyIDQ5QzEyIDQwLjE2MzQgMTkuMTYzNCAzMyAyOCAzM0gzNkM0NC44MzY2IDMzIDUyIDQwLjE2MzQgNTIgNDlWNTJIMTJWNDlaIiBmaWxsPSIjRjU5NDVGIi8+Cjwvc3ZnPgo=',
                 content: 'Automatyczna fakturacja oszczędza nam tygodnie pracy. ROI zwrócił się już w drugim miesiącu użytkowania.'
               }
             ].map((testimonial, index) => (
