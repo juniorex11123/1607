@@ -11,7 +11,7 @@ from datetime import datetime, timedelta
 from typing import Dict, Any, Optional
 
 class TimeTrackerAPITester:
-    def __init__(self, base_url: str = "https://324f52aa-5f29-4419-8bdf-f8024788d252.preview.emergentagent.com/api"):
+    def __init__(self, base_url: str = "http://localhost:8001/api"):
         self.base_url = base_url
         self.tokens = {}  # Store tokens for different users
         self.test_data = {}  # Store created test data
